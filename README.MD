@@ -5,7 +5,7 @@
 
 ## 截图
 ### 开始
-![开始](RandomName/readme/1.PNG)
+![开始](https://github.com/tu-jacktu/RandomName/blob/master/readme/1.PNG)
 
 ### 随机中
 ![随机中](RandomName/readme/2.PNG)
