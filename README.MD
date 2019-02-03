@@ -5,10 +5,10 @@
 
 ## 截图
 ### 开始
-![开始](./readme/1.png)
+![开始](RandomName/readme/1.PNG)
 
 ### 随机中
-![随机中](./readme/2.png)
+![随机中](RandomName/readme/2.PNG)
 
 ## 项目目录结构
 ```
