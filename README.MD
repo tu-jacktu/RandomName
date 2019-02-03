@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # RandomName
 >看老师使用的一个 点人回答问题的程序,觉得还有点意思.<br/>
 于是自己 diy一个,主要使用了 java swing 和 io流.<br/>
@@ -22,6 +20,3 @@
                 Person.java		javaBean
 
 ```
->>>>>>> branch 'master' of https://github.com/tu-jacktu/RandomName
-
-
