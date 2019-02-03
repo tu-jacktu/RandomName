@@ -8,7 +8,7 @@
 ![开始](https://github.com/tu-jacktu/RandomName/blob/master/readme/1.PNG)
 
 ### 随机中
-![随机中](RandomName/readme/2.PNG)
+![随机中](https://github.com/tu-jacktu/RandomName/blob/master/readme/2.PNG)
 
 ## 项目目录结构
 ```
