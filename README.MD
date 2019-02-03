@@ -18,5 +18,4 @@
                 jacktu.jpg		程序图标
                 MyPanel.java	主类/程序入口
                 Person.java		javaBean
-
 ```
