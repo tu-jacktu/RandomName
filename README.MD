@@ -6,6 +6,7 @@
 卷 software 的文件夹 PATH 列表
 卷序列号为 94FC-A1C2
 
+```
 │  .gitignore
 │  .project
 │  names.txt
@@ -21,6 +22,7 @@
                 jacktu.jpg
                 MyPanel.java
                 Person.java
-                
+
+```
 
 
